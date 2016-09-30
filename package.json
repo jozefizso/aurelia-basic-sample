@@ -1,0 +1,11 @@
+{
+  "name": "basic-aurelia-sample",
+  "version": "1.0.0",
+  "description": "Sample Todos application",
+  "main": "scripts/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jozef Izso",
+  "license": "MIT"
+}
